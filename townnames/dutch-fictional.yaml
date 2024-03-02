@@ -2,11 +2,6 @@ available: true
 id: 0
 mainset:
 - names:
-  - name: ''
-    probability: 100
-  - name: '@prefix'
-    probability: 1
-- names:
   - name: '''s-Graven'
     probability: 1
   - name: Haar
